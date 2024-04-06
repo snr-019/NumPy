@@ -1,2 +1,2 @@
-# NumPy-
+# NumPy
 NumPy in Python
